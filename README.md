@@ -1,2 +1,2 @@
 # PaperTanks
-hi parth and i made paper paper tank tank
+This is our implementation of the paper tanks game.
